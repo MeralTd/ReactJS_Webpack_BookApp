@@ -1,4 +1,4 @@
 # ReactJS_Webpack_BookApp
-To run
-npm install
-npm start
+ <b>To run</b>:<br>
+* npm install
+* npm start
